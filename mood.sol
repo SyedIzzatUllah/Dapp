@@ -19,3 +19,4 @@ contract MoodDiary{
         return mood;
     }
 }
+ 
