@@ -4,7 +4,7 @@ pragma solidity ^0.8.1;
 /// a simple set and get function for mood defined: 
 
 //define the contract
-contract MoodDiary{
+contract MoodDiary{ 
     
     //create a variable called mood
     string mood;
