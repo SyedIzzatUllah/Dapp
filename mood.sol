@@ -1,6 +1,6 @@
 // SPDX-License-Identifier: MIT
 
-pragma solidity ^0.8.1;    
+pragma solidity ^0.8.1;     
 /// a simple set and get function for mood defined: 
 
 //define the contract
