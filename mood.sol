@@ -6,7 +6,7 @@ pragma solidity ^0.8.1;
 //define the contract
 contract MoodDiary{ 
     
-    //create a variable called mood
+    //create a variable called mood for smart contract 
     string mood;
     
     //create a function that writes a mood to the smart contract
